@@ -26,7 +26,9 @@ Radiological image is currently adopted as the visual evidence for COVID-19 diag
 ## [Synthetic chest CT slices](/SyntheticChestCTSlices)
 
 
+--------
 
+We use [Training datasets](https://zenodo.org/record/3757476#.XvR5DPgzZPY).
 
 
 -------------
@@ -44,4 +46,6 @@ If you find it useful, please cite:
 
 -------------
 
+## Acknowledgement
 
+We thank the provider of [COVID-19 CT Lung and Infection Segmentation Dataset](https://zenodo.org/record/3757476#.XvR5DPgzZPY).
