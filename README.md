@@ -48,4 +48,4 @@ If you find it useful, please cite:
 
 ## Acknowledgement
 
-We thank the provider of [COVID-19 CT Lung and Infection Segmentation Dataset](https://zenodo.org/record/3757476#.XvR5DPgzZPY).
+We thank the providers of [COVID-19 CT Lung and Infection Segmentation Dataset](https://zenodo.org/record/3757476#.XvR5DPgzZPY).
