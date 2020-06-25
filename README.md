@@ -22,3 +22,26 @@ Radiological image is currently adopted as the visual evidence for COVID-19 diag
 ## [segmentation](/segmentation)
 
 
+
+## [Synthetic chest CT slices](/SyntheticChestCTSlices)
+
+
+
+
+
+-------------
+
+If you find it useful, please cite:
+
+    @misc{zhang2020learning,
+        title={Learning Diagnosis of COVID-19 from a Single Radiological Image},
+        author={Pengyi Zhang and Yunxin Zhong and Xiaoying Tang and Yunlin Deng and Xiaoqiong Li},
+        year={2020},
+        eprint={2006.12220},
+        archivePrefix={arXiv},
+        primaryClass={eess.IV}
+    }
+
+-------------
+
+
