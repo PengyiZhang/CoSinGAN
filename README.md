@@ -20,14 +20,9 @@ Computed tomography (CT) images are currently adopted as the visual evidence for
 
 
 
-
-
-
 --------
 
 We use [COVID-19-CT-Seg dataset](https://zenodo.org/record/3757476#.XvR5DPgzZPY) with 20 CT cases for 5-fold cross validation (4 cases for training and 16 cases for testing) and [MosMed dataset](https://mosmed.ai/datasets/covid19_1110) with 50 CT cases for independent test.
-
-
 
 
 -------------
@@ -47,4 +42,4 @@ If you find it useful, please cite:
 
 ## Acknowledgement
 
-We thank the providers of [COVID-19 CT Lung and Infection Segmentation Dataset](https://zenodo.org/record/3757476#.XvR5DPgzZPY).
+We thank the providers of [COVID-19-CT-Seg dataset](https://zenodo.org/record/3757476#.XvR5DPgzZPY) and [MosMed dataset](https://mosmed.ai/datasets/covid19_1110).
